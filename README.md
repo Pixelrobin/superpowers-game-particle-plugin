@@ -1,1 +1,1 @@
-"# superpowers-game-particle-plugin" 
+# superpowers-game-particle-plugin
